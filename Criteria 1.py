@@ -63,7 +63,7 @@ def main():
             while not nav.isTaskComplete():
                 print("Going to table 3")
         else : 
-            print("SORRY DEIVA , KEEP TRYING YOU CAN .....")
+            print("SORRY, KEEP TRYING YOU CAN .....")
             
 
     nav.goToPose(robo_hp)
