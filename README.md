@@ -22,7 +22,7 @@
 * To deliver the food from kitchen to the specific ordered table in the preference in which the orders are received.
 
 
-**Selection of simulator: 
+**Selection of simulator**: 
 
 **Gazebo:** 
 
